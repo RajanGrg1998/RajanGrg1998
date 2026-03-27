@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Rajan 👋
 
-<!--
-**RajanGrg1998/RajanGrg1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack & Mobile Developer with Cybersecurity skills | Building real-world web, iOS, Android, and Flutter apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+### Web & Backend
+React, Node.js, Express, MongoDB, REST APIs
+
+### Mobile
+Android (Kotlin), iOS (Swift), Flutter
+
+### Cybersecurity
+Network scanning, penetration testing, ethical hacking
+
+### Tools & Others
+Git, GitHub, Docker, Firebase, Material UI
+
+---
+
+## 📂 Featured Projects
+
+- **Kaizen App** – Full-stack productivity platform (React, Node.js, MongoDB)  
+- **POS System** – Point-of-sale system with inventory management  
+- **Rent iOS App** – iOS app to find rental properties on map (Swift)  
+- **Video Clipper** – Flutter app to record, trim, and merge videos  
+- **Bookstore Android** – Kotlin app to browse books and manage cart  
+- **Portfolio** – My personal site showcasing projects
+
+---
+
+## 📫 Contact Me
+
+[GitHub](https://github.com/RajanGrg1998) | [LinkedIn](#) | [Email](mailto:your-email@example.com)
