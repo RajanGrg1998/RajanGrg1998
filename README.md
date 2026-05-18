@@ -1,6 +1,6 @@
 # Hi, I'm Rajan 👋
 
-Full-Stack & Mobile Developer with Cybersecurity skills | Building real-world Web, iOS, Android, and Flutter applications.  
+Software Developer with Cybersecurity skills | Building real-world Web, iOS, Android, and Flutter applications.  
 
 ---
 
