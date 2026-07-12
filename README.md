@@ -1,6 +1,6 @@
 # Hi, I'm Rajan 👋
 
-Software Developer with Cybersecurity skills | Building real-world Web, iOS, Android, and Flutter applications.  
+Software Developer with Cybersecurity skills | Building real-world Web, iOS, Android, React, React Native and Flutter applications.  
 
 ---
 
