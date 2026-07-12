@@ -1,7 +1,6 @@
 # Hi, I'm Rajan 👋
 
-Software Developer with Cybersecurity skills | Building real-world Web, iOS, Android, React, React Native and Flutter applications.  
-
+I have 2+ years of experience specializing in Flutter and clean mobile architecture. I build scalable cross-platform and web apps, backed by full-stack knowledge of React, React Native, Node.js, and MongoDB.
 ---
 
 ## 🛠 Skills
