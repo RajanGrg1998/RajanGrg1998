@@ -1,6 +1,7 @@
 # Hi, I'm Rajan 👋
 
-I have 2+ years of experience specializing in Flutter and clean mobile architecture. I build scalable cross-platform and web apps, backed by full-stack knowledge of React, React Native, Node.js, and MongoDB.
+Software Developer with 2+ years of experience building production-grade mobile and full-stack applications. Experienced with Flutter, React, Node.js, and MongoDB, with a strong focus on scalable architecture, clean code, and delivering production-ready applications with 1,000+ active
+downloads
 
 ---
 
